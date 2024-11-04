@@ -3,4 +3,4 @@ Disallow: /
 
 Allow: /
 Allow: /a
-Allow: /b
+Allow: /b$
